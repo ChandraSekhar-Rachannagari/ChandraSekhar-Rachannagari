@@ -1,12 +1,12 @@
 ### Hi there 👋
-predicting the car price based on the folloing paramentes 
-Year - Car model (year of manifacturing) 
-Kms_Driven - Number of kiliometers run 
-Present_Price - <initial price
-Fuel_Type - Bev, Petrol, Diesel or Hybrid
-Transmission -  Number of Transmission
-Owner -  Number of owners changed
-Model out put (predicting the used car )
+predicting the car price based on the folloing paramentes </br>
+Year - Car model (year of manifacturing) </br>
+Kms_Driven - Number of kiliometers run </br>
+Present_Price - <initial price </br>
+Fuel_Type - Bev, Petrol, Diesel or Hybrid </br>
+Transmission -  Number of Transmission </br>
+Owner -  Number of owners changed </br>
+Model out put (predicting the used car )</br>
 Selling_Price - 
 
 <!--
