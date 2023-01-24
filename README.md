@@ -1,13 +1,14 @@
 ### Hi there 👋
-<h2>predicting the used car price based on the folloing paramentes </h2> </br></br>
-Year - Car model (year of manifacturing) </br>
-Kms_Driven - Number of kiliometers run </br>
+<h2>Predicting the used car price </h2>  </br> Based on the following parameters </br></br>
+Year - Car model (year of manufacturing) </br>
+Kms_Driven - Number of kilometers run </br>
 Present_Price - <initial price </br>
 Fuel_Type - Bev, Petrol, Diesel or Hybrid </br>
 Transmission -  Number of Transmission </br>
 Owner -  Number of owners changed </br>
-Model out put (predicting the used car )</br>
-Selling_Price - 
+Model output (predicting the used car )</br>
+Selling Price ?
+ 
 
 <!--
 **ChandraSekhar-Rachannagari/ChandraSekhar-Rachannagari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
