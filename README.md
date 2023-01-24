@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2>Predicting the used car price </h2>  </br> Based on the following parameters </br></br>
 Year - Car model (year of manufacturing) </br>
 Kms_Driven - Number of kilometers run </br>
