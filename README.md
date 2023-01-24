@@ -1,5 +1,5 @@
 ### Hi there 👋
-predicting the car price based on the folloing paramentes </br>
+<h2>predicting the used car price based on the folloing paramentes </h2> </br></br>
 Year - Car model (year of manifacturing) </br>
 Kms_Driven - Number of kiliometers run </br>
 Present_Price - <initial price </br>
